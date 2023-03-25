@@ -67,7 +67,9 @@ def generate_response(prompt):
 make sure to save the key , as you will not be able to see it again
 ![click on encircled](https://github.com/rkverma87/gpt3bot/blob/main/images/img2.PNG)
 
-3. run the main.py file in IDE, you will get follwing message. 
+3. Paster the newly genrated API in the code where API is defined
+
+4. run the main.py file in IDE, you will get follwing message. 
 
 ![copy the local host URL and paste it on browser](https://github.com/rkverma87/gpt3bot/blob/main/images/image3.PNG)
 
